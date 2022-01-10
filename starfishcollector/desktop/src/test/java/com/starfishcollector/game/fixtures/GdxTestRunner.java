@@ -1,3 +1,4 @@
+package com.starfishcollector.game.fixtures;
 import com.badlogic.gdx.ApplicationListener;
 
 import java.util.HashMap;
